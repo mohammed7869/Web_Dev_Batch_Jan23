@@ -27,6 +27,9 @@ Resources to learn CSS:
 6. https://www.youtube.com/@freecodecamp
 7. https://www.youtube.com/@Techsithtube
 
+Resource for JS:
+1. https://javascript.info/
+
 Resources to practise:
 
 1. https://www.freecodecamp.org/learn/
